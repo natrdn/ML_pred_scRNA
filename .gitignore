@@ -7,6 +7,9 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
+# Local TODOs / teaching notes
+TODO/
+
 # Data & outputs
 data/
 *.csv
