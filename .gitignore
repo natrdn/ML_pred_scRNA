@@ -1,20 +1,15 @@
-# macOS
-.DS_Store
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
 
 # Jupyter
 .ipynb_checkpoints/
 
-# Python
-__pycache__/
-*.pyc
-*.pyo
-
-# Data (keep large/raw/derived data out of git)
+# Data & outputs
 data/
-*.h5ad
 *.csv
 
-# Env
-venv/
-.env/
-.venv/
+# OS
+.DS_Store
